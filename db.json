@@ -1,0 +1,23 @@
+{
+  "doctors": [
+    {
+      "name": "Tangirala Sri Venkata Sai Krishna",
+      "salary": "12000",
+      "gender": "male",
+      "age": "21",
+      "specialization": "Cardiologist",
+      "id": 1
+    }
+  ],
+  "patients": [
+    {
+      "name": "Ankem Sri Krishna",
+      "weight": "80",
+      "gender": "male",
+      "age": "21",
+      "disease": "Fever",
+      "doctor": "Tangirala Sri Venkata Sai Krishna",
+      "id": 1
+    }
+  ]
+}
